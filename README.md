@@ -9,8 +9,7 @@
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-
-<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://linkedin.com/in/themostafasamir100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
+<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://linkedin.com/in/themostafasamir100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
