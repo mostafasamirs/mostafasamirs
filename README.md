@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Samir</h1>
-<h3 align="center">Back End Web developer with good skills in web designing and developing and seeking for a back end web developer job.</h3>
+<h3 align="center">Full Stack Web Developer I have extensive knowledge of designing marking up and developing user interfaces.
+I can design and develop web pages graphics multimedia. I have good knowledge of 
+development using</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasamirs" /> </p>
 
