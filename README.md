@@ -43,17 +43,18 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
   </a>
-  <a href="https://laravel.com/"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="60"> </a> 
- <a href="https://getcomposer.org/"><img src="https://getcomposer.org/img/logo-composer-transparent.png" height="60"> </a> 
+  <a href="https://laravel.com/"> <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" height="60">
+  </a> 
+    <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" width="60" height="60"/>
+</a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
   </a>
-  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire" width="60" height="60"/>
-</a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="60" height="60"/>
   </a>
+   <a href="https://getcomposer.org/"><img src="https://getcomposer.org/img/logo-composer-transparent.png" height="60"> </a> 
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp.js" width="60" height="60"/>
   </a>
