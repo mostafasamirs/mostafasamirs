@@ -78,8 +78,8 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 <br>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" style="max-width: 49%!important;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs" alt="GitHub Streak" style="max-width: 49%!important;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="288"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs" alt="GitHub Streak" width="288"/>
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages"/>
 </p>
