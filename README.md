@@ -57,16 +57,17 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg" alt="Ajax" width="60" height="60"/>
-  </a>
-<img src="https://img.icons8.com/ios-filled/50/object.png" alt="OOP" width="60" height="60"/>
-<img src="https://img.icons8.com/ios-filled/50/principles.png" alt="SOLID Principles" width="60" height="60"/>
-<img src="https://img.icons8.com/ios-filled/50/unit-testing.png" alt="Unit Testing" width="60" height="60"/>
-  <path fill-rule="evenodd" clip-rule="evenodd" d="M34.8 27.706C34.12 28.734 33.605 30 32.223 30c-2.326 0-2.452-3.587-4.78-3.587-2.327 0-2.201 3.587-4.527 3.587s-2.452-3.587-4.78-3.587c-2.327 0-2.201 3.587-4.528 3.587-2.326 0-2.452-3.587-4.78-3.587C6.5 26.413 6.628 30 4.3 30c-.731 0-1.245-.354-1.678-.84A19.866 19.866 0 0 1 0 19.24C0 8.613 8.208 0 18.333 0 28.46 0 36.667 8.614 36.667 19.24c0 3.037-.671 5.91-1.866 8.466Z" fill="#FB70A9"></path>
+  
   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
     <img src="https://repository-images.githubusercontent.com/183826586/20aa4380-08d0-11ea-918e-e55c277b6d70" alt="Livewire" width="60" height="60"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg" alt="Ajax" width="60" height="60"/>
+  </a>
+  <img src="https://img.icons8.com/ios-filled/50/object.png" alt="OOP" width="60" height="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/principles.png" alt="SOLID Principles" width="60" height="60"/>
+  <img src="https://img.icons8.com/ios-filled/50/unit-testing.png" alt="Unit Testing" width="60" height="60"/>
+
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
