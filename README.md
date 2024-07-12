@@ -7,7 +7,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="60" /></a> <a href="https://linkedin.com/in/themostafasamir100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="60" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
+<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://linkedin.com/in/themostafasamir100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasamirs" /> </p>
@@ -58,13 +58,10 @@ By working closely with your team, I ensure your brand's identity is reflected i
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
   </a>
   
-  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+[  <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
     <img src="https://repository-images.githubusercontent.com/183826586/20aa4380-08d0-11ea-918e-e55c277b6d70" alt="Livewire" width="60" height="60"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
-    <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg](https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png)" alt="Ajax" width="60" height="60"/>
-  </a>
-
+  </a>](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white
+)
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
@@ -73,6 +70,10 @@ By working closely with your team, I ensure your brand's identity is reflected i
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+  </a>
+    <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+" alt="Postman" width="60" height="60"/>
   </a>
 </p>
 <br>
