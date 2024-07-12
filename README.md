@@ -91,26 +91,26 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/contributors-anon/username/repo.svg" alt="Active Members" />
+  <img src="https://img.shields.io/github/contributors-anon/mostafasamirs/repo.svg" alt="Active Members" />
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mostafasamirs" alt="Profile Views" />
 </p>
 
 <p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name" alt="Profile Visits" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=mostafasamirs" alt="Profile Visits" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/issues/comments/username/repo.svg" alt="Comments" />
+  <img src="https://img.shields.io/github/issues/comments/mostafasamirs/repo.svg" alt="Comments" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/stars/username/repo.svg?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/stars/mostafasamirs/repo.svg?style=social" alt="Stars" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/forks/username/repo.svg?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/forks/mostafasamirs/repo.svg?style=social" alt="Forks" />
 </p>
 
