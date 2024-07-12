@@ -75,13 +75,12 @@ By working closely with your team, I ensure your brand's identity is reflected i
   </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="60" height="60"/>
-
 </p>
 <br>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="60"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs" alt="GitHub Streak" width="60"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="60"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs" alt="GitHub Streak" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="200"/>
 </p>
 
 
