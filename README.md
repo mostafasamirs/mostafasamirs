@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mostafa Samir</h1>
 <h3 align="center">
 I am a Full Stack Developer with expertise in both frontend and backend development. My focus is on delivering modern and responsive websites that are not only visually appealing but also robust and efficient.
+  
 By working closely with your team, I ensure your brand's identity is reflected in the website's design and functionality. Having previously worked with various companies, I can contribute to creating impactful websites that help drive business outcomes. Let me help you improve your digital presence.
 </h3>
 <h3 align="center">Connect with me:</h3>
