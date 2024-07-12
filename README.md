@@ -65,9 +65,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasamirs&show_icons=true&locale=en&layout=compact" alt="mostafasamirs" /></p>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasamirs&show_icons=true&locale=en&layout=compact" alt="mostafasamirs" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&locale=en" alt="mostafasamirs" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs&" alt="mostafasamirs" /></p>
