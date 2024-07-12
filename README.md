@@ -76,6 +76,10 @@ By working closely with your team, I ensure your brand's identity is reflected i
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="60" height="60"/>
 </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg" alt="Ajax" width="40" height="40"/>
+</a>
+
 </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasamirs&show_icons=true&locale=en&layout=compact" alt="mostafasamirs" /></p>
