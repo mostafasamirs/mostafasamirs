@@ -56,11 +56,9 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp.js" width="60" height="60"/>
   </a>
-<p align="left">
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
   </a>
-</p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg" alt="Ajax" width="60" height="60"/>
   </a>
