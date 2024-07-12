@@ -9,10 +9,15 @@ By working closely with your team, I ensure your brand's identity is reflected i
 <p align="center">
 <a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://linkedin.com/in/themostafasamir100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>  
 </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views mostafasamirs" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="mostafasamirs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs" alt="mostafasamirs" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs" alt="GitHub Profile Trophies" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
