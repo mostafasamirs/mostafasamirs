@@ -78,11 +78,6 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasamirs&show_icons=true&locale=en&layout=compact" alt="mostafasamirs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs&" alt="mostafasamirs" /></p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&locale=en" alt="mostafasamirs" />
-</p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" />
 </p>
@@ -95,6 +90,27 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafasamirs&show_icons=true&locale=en&layout=compact" alt="mostafasamirs" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs&" alt="mostafasamirs" /></p>
- -->
+<p>
+  <img src="https://img.shields.io/github/contributors-anon/username/repo.svg" alt="Active Members" />
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=your_username" alt="Profile Views" />
+</p>
+
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name" alt="Profile Visits" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/issues/comments/username/repo.svg" alt="Comments" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/stars/username/repo.svg?style=social" alt="Stars" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/forks/username/repo.svg?style=social" alt="Forks" />
+</p>
+
