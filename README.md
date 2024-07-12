@@ -60,15 +60,12 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ajax_logo_by_gengns.svg" alt="Ajax" width="60" height="60"/>
   </a>
-  <img src="https://img.icons8.com/ios-filled/50/000000/object.png" alt="OOP" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/principles.png" alt="SOLID Principles" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/unit-testing.png" alt="Unit Testing" width="60" height="60"/>
-
-
+<img src="https://img.icons8.com/ios-filled/50/object.png" alt="OOP" width="60" height="60"/>
+<img src="https://img.icons8.com/ios-filled/50/principles.png" alt="SOLID Principles" width="60" height="60"/>
+<img src="https://img.icons8.com/ios-filled/50/unit-testing.png" alt="Unit Testing" width="60" height="60"/>
   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
     <img src="https://repository-images.githubusercontent.com/183826586/20aa4380-08d0-11ea-918e-e55c277b6d70" alt="Livewire" width="60" height="60"/>
   </a>
-  
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
   </a>
