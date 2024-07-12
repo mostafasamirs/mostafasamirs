@@ -80,6 +80,10 @@ By working closely with your team, I ensure your brand's identity is reflected i
   </a>
 <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" width="100" height="70"/>
+  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</a>
+
 </p>
 <br>
 <p>
