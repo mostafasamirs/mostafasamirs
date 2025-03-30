@@ -102,4 +102,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafasamirs&theme=github-compact" alt="GitHub Activity Graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mostafasamirs&layout=compact&theme=radical" alt="WakaTime Stats" />
+</p>
 
