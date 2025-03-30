@@ -86,20 +86,17 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 </p>
 <br>
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="415"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="300" height: 167px;/>
- <img src="https://streak-stats.demolab.com?user=mostafasamirs&theme=dark&hide_border=true&border_radius=5&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="300" height="167px"/>
+  <img src="https://streak-stats.demolab.com?user=mostafasamirs&theme=dark&hide_border=true&border_radius=5&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafasamirs&theme=github-compact" alt="GitHub Activity Graph" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafasamirs&theme=highcontrast" alt="GitHub Contribution Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs&theme=monokai&no-bg=true" alt="GitHub Achievements" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mostafasamirs" alt="Wakatime Stats" />
-<img src="https://github.com/mostafasamirs/mostafasamirs/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mostafasamirs" alt="Wakatime Stats" />
-![GitHub metrics](https://metrics.lecoq.io/mostafasamirs)
-<img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs&theme=onedark" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs&theme=monokai&no-bg=true" alt="GitHub Achievements" />
+  <img src="https://github.com/mostafasamirs/mostafasamirs/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://metrics.lecoq.io/mostafasamirs" alt="GitHub Metrics" />
 </p>
+
 
