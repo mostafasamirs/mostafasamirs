@@ -94,9 +94,6 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafasamirs&theme=github-compact" alt="GitHub Activity Graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs&theme=monokai&no-bg=true" alt="GitHub Achievements" />
-  <img src="https://github.com/mostafasamirs/mostafasamirs/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
-  <img src="https://metrics.lecoq.io/mostafasamirs" alt="GitHub Metrics" />
 </p>
 
 
