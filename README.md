@@ -93,7 +93,11 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafasamirs&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&theme=radical" alt="إحصائيات GitHub الخاصة بي" />
+</p>
+
 
 
