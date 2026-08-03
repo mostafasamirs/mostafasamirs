@@ -7,7 +7,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://linkedin.com/in/mostafasamirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themostafasamir100" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> 
+<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mostafasamirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafasamirs" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views mostafasamirs" />
@@ -15,7 +15,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mostafasamirs" alt="GitHub Profile Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=mostafasamirs" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -88,8 +88,8 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="415"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="300" height="167px"/>
+  <img src="https://github-readme-stats-eight-pink.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="415"/>
+  <img src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="300" height="167px"/>
   <img src="https://streak-stats.demolab.com?user=mostafasamirs&theme=dark&hide_border=true&border_radius=5&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
 </p>
 
