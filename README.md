@@ -15,7 +15,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.devomb.com/?username=mostafasamirs" alt="GitHub Profile Trophies" />
+    <img src="https://github-trophies.devomb.com/?username=mostafasamirs&theme=darkhub&no-frame=true&column=5" alt="GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -66,8 +66,8 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp.js" width="60" height="60"/>
   </a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="60" height="60"/>
+  <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vite.dev/logo.svg" alt="Vite" width="60" height="60"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60"/>
@@ -87,13 +87,8 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 </p>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats-eight-pink.vercel.app/api?username=mostafasamirs&show_icons=true&count_private=true" alt="GitHub Stats" width="415"/>
-  <img src="https://github-readme-stats-eight-pink.vercel.app/api/top-langs/?username=mostafasamirs&layout=compact" alt="Top Languages" width="300" height="167px"/>
-  <img src="https://streak-stats.demolab.com?user=mostafasamirs&theme=dark&hide_border=true&border_radius=5&short_numbers=true&card_width=500&card_height=200" alt="GitHub Streak" />
-</p>
 
+<h3 align="center">GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mostafasamirs&theme=github-compact" alt="GitHub Activity Graph" />
+  <img src="https://gitlyy.vercel.app/api/contribution?username=mostafasamirs&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-
