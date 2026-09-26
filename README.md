@@ -96,5 +96,5 @@ By working closely with your team, I ensure your brand's identity is reflected i
 
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
-  <img src="https://gitlyy.vercel.app/api/contribution?username=mostafasamirs&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://gitlyy.vercel.app/api/contribution?username=mostafasamirs&hide_border=true&v=20260927" alt="GitHub Contribution Graph" />
 </p>
