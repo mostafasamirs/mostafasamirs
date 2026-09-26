@@ -7,7 +7,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
-<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mostafasamirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafasamirs" height="30" width="40" /></a> <a href="mailto: themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> 
+<a href="https://dev.to/mostafasamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mostafasamir" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/mostafasamirs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafasamirs" height="30" width="40" /></a> <a href="mailto:themostafa100@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/gmail-%23E4605F.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a> 
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mostafasamirs&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views mostafasamirs" />
@@ -91,7 +91,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafasamirs&name=Mostafa%20Samir&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mostafasamirs&border_radius=5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=mostafasamirs&theme=dark&border_radius=5" alt="GitHub Streak" />
 </p>
 
 <h3 align="center">GitHub Activity</h3>
