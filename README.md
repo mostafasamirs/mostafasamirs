@@ -88,7 +88,18 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 <br>
 
+<p align="center">
+  <img src="https://gitlyy.vercel.app/api/overview?username=mostafasamirs&hide_border=true" alt="GitHub Overview" width="430"/>
+  <img src="https://gitlyy.vercel.app/api/languages?username=mostafasamirs&hide_border=true" alt="Top Languages" width="430"/>
+</p>
+<p align="center">
+  <img src="https://gitlyy.vercel.app/api/issues?username=mostafasamirs&hide_border=true" alt="Issues Stats" width="430"/>
+</p>
+
 <h3 align="center">GitHub Activity</h3>
 <p align="center">
   <img src="https://gitlyy.vercel.app/api/contribution?username=mostafasamirs&hide_border=true" alt="GitHub Contribution Graph" />
+</p>
+<p align="center">
+  <img src="https://gitlyy.vercel.app/api/commits?username=mostafasamirs&hide_border=true" alt="Commit Activity" width="430"/>
 </p>
