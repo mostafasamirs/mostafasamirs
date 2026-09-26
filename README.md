@@ -88,7 +88,7 @@ By working closely with your team, I ensure your brand's identity is reflected i
 </p>
 <br>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafasamirs" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mostafasamirs&name=Mostafa%20Samir&theme=github_dark" alt="GitHub Profile Details" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mostafasamirs&border_radius=5" alt="GitHub Streak" />
